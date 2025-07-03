@@ -1,6 +1,6 @@
 # Welcome to the SandwichStation Github!
 Our socials:  
-<a target="_blank" href="https://discord.gg/Z6JvtKw6tp"><img src="https://dcbadge.limes.pink/api/server/Z6JvtKw6tp?style=flat" alt="SandwichStation Discord" /></a>
+<a target="_blank" href="https://discord.gg/Z6JvtKw6tp"><img src="https://dcbadge.limes.pink/api/server/Z6JvtKw6tp" alt="SandwichStation Discord" /></a>
 ## You can find the following repos here:
 ### [SandwichStation (SS14 Server)](https://github.com/SandwichStation/SandwichStation)
 [![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/stargazers)
