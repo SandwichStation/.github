@@ -35,17 +35,6 @@ Our socials:
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/docs)](https://github.com/SandwichStation/docs/pulls)
 [![License](https://img.shields.io/github/license/SandwichStation/docs.svg)](https://github.com/SandwichStation/docs/blob/master/LICENSE)
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/docs/total.svg)](https://github.com/SandwichStation/docs/releases/latest)-->
----
-### [Wiki](https://github.com/SandwichStation/wiki)
-#### Crew wiki
-[![Stars](https://img.shields.io/github/stars/SandwichStation/wiki.svg)](https://github.com/SandwichStation/wiki/stargazers)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/wiki)](https://github.com/SandwichStation/wiki/)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/wiki/main)](https://github.com/SandwichStation/wiki/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/wiki)](https://github.com/SandwichStation/wiki/)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/wiki)](https://github.com/SandwichStation/wiki/pulls)
-[![License](https://img.shields.io/github/license/SandwichStation/wiki.svg)](https://github.com/SandwichStation/wiki/blob/master/LICENSE)
-<!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/wiki/total.svg)](https://github.com/SandwichStation/wiki/releases/latest)-->
----
 ### [Forms](https://github.com/SandwichStation/ss14-forms-txt)
 #### Printable pages for ss14
 [![Stars](https://img.shields.io/github/stars/SandwichStation/ss14-forms-txt.svg)](https://github.com/SandwichStation/wiki/stargazers)
