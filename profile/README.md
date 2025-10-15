@@ -11,7 +11,6 @@ Our socials:
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation/issues)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation/pulls)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/B3CKDOOR?label=GitHub%20Sponsors)](https://github.com/sponsors/B3CKDOOR)
-[![Patreon Sponsors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F14394644&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441)](https://patreon.com/SandwichStation)
 <!--[![License](https://img.shields.io/github/license/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/blob/master/LICENSE)-->
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation/total.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 <!--[![Release](https://img.shields.io/github/release/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
