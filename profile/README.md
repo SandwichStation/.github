@@ -15,16 +15,6 @@ Our socials:
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation/total.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 <!--[![Release](https://img.shields.io/github/release/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 ---
-### [SandwichStation Docker](https://github.com/SandwichStation/SandwichStation-Docker)
-#### Run SS14 Server inside of docker
-[![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation-Docker.svg)](https://github.com/SandwichStation/SandwichStation-Docker/stargazers)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SandwichStation-Docker)](https://github.com/SandwichStation/SandwichStation-Docker/)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SandwichStation-Docker/main)](https://github.com/SandwichStation/SandwichStation-Docker/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SandwichStation-Docker)](https://github.com/SandwichStation/SandwichStation-Docker/)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/SandwichStation/SandwichStation-Docker)](https://github.com/SandwichStation/SandwichStation-Docker/issues)
-<!--[![License](https://img.shields.io/github/license/SandwichStation/SandwichStation-Docker.svg)](https://github.com/SandwichStation/SandwichStation-Docker/blob/master/LICENSE)-->
-<!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation-Docker/total.svg)](https://github.com/SandwichStation/SandwichStation-Docker/releases/latest)-->
----
 ### [Docs](https://github.com/SandwichStation/docs)
 #### Developer guides
 [![Stars](https://img.shields.io/github/stars/SandwichStation/docs.svg)](https://github.com/SandwichStation/docs/stargazers)
