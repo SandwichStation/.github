@@ -2,15 +2,16 @@
 Our socials:  
 <a target="_blank" href="https://discord.gg/Z6JvtKw6tp"><img src="https://dcbadge.limes.pink/api/server/Z6JvtKw6tp?refresh=true" alt="SandwichStation Discord" /></a>
 ## You can find the following repos here:
-### [SandwichStation](https://github.com/SandwichStation/SandwichStation)
+### [SandwichStation-HL](https://github.com/SandwichStation/SandwichStation-HL)
 #### SS14 Server/Client
-[![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/stargazers)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SandwichStation/master)](https://github.com/SandwichStation/SandwichStation)
-[![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation/issues)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/SandwichStation)](https://github.com/SandwichStation/SandwichStation/pulls)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/B3CKDOOR?label=GitHub%20Sponsors)](https://github.com/sponsors/B3CKDOOR)
+[![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation-HL.svg)](https://github.com/SandwichStation/SandwichStation-HL/stargazers)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SandwichStation-HL/master)](https://github.com/SandwichStation/SandwichStation-HL)
+[![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL/issues)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL/pulls)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/SandwichStation?label=GitHub%20Sponsors)](https://github.com/sponsors/SandwichStation)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/B3CKDOOR?label=Legacy%20GitHub%20Sponsors)](https://github.com/sponsors/B3CKDOOR)
 <!--[![License](https://img.shields.io/github/license/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/blob/master/LICENSE)-->
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation/total.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 <!--[![Release](https://img.shields.io/github/release/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
