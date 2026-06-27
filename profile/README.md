@@ -13,7 +13,7 @@ Our socials:
 <!--[![License](https://img.shields.io/github/license/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/blob/master/LICENSE)-->
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation/total.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 <!--[![Release](https://img.shields.io/github/release/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
-### [Sandwich Launcher](https://github.com/SandwichStation/SS14.Launcher)
+### [Sandwich Launcher (WIP)](https://github.com/SandwichStation/SS14.Launcher)
 [![Stars](https://img.shields.io/github/stars/SandwichStation/SS14.Launcher.svg)](https://github.com/SandwichStation/SS14.Launcher/stargazers)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SS14.Launcher)](https://github.com/SandwichStation/SS14.Launcher/)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SS14.Launcher/master)](https://github.com/SandwichStation/SS14.Launcher/)
