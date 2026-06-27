@@ -2,25 +2,31 @@
 Our socials:  
 <a target="_blank" href="https://discord.gg/Z6JvtKw6tp"><img src="https://dcbadge.limes.pink/api/server/Z6JvtKw6tp?refresh=true" alt="SandwichStation Discord" /></a>
 ## You can find the following repos here:
-### [SandwichStation-HL](https://github.com/SandwichStation/SandwichStation-HL)
-#### SS14 Server/Client
+### [SandwichStation Server/Client](https://github.com/SandwichStation/SandwichStation-HL)
 [![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation-HL.svg)](https://github.com/SandwichStation/SandwichStation-HL/stargazers)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SandwichStation-HL/master)](https://github.com/SandwichStation/SandwichStation-HL)
 [![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL/issues)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL/pulls)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/SandwichStation?label=GitHub%20Sponsors)](https://github.com/sponsors/SandwichStation)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/B3CKDOOR?label=Legacy%20GitHub%20Sponsors)](https://github.com/sponsors/B3CKDOOR)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/B3CKDOOR?label=GitHub%20Sponsors)](https://github.com/sponsors/B3CKDOOR)
 <!--[![License](https://img.shields.io/github/license/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/blob/master/LICENSE)-->
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SandwichStation/total.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
 <!--[![Release](https://img.shields.io/github/release/SandwichStation/SandwichStation.svg)](https://github.com/SandwichStation/SandwichStation/releases/latest)-->
+### [Sandwich Launcher](https://github.com/SandwichStation/SS14.Launcher)
+[![Stars](https://img.shields.io/github/stars/SandwichStation/SS14.Launcher.svg)](https://github.com/SandwichStation/SS14.Launcher/stargazers)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/SS14.Launcher)](https://github.com/SandwichStation/SS14.Launcher/)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/SS14.Launcher/master)](https://github.com/SandwichStation/SS14.Launcher/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SS14.Launcher)](https://github.com/SandwichStation/SS14.Launcher/)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SandwichStation/SS14.Launcher)](https://github.com/SandwichStation/SS14.Launcher/issues)
+[![License](https://img.shields.io/github/license/SandwichStation/SS14.Launcher.svg)](https://github.com/SandwichStation/SS14.Launcher/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/SandwichStation/SS14.Launcher/total.svg)](https://github.com/SandwichStation/SS14.Launcher/releases/latest)
 ---
 ### [Forms](https://github.com/SandwichStation/ss14-forms-txt)
 #### Printable pages for ss14
 [![Stars](https://img.shields.io/github/stars/SandwichStation/ss14-forms-txt.svg)](https://github.com/SandwichStation/wiki/stargazers)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/ss14-forms-txt)](https://github.com/SandwichStation/ss14-forms-txt/)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SandwichStation/ss14-forms-txt/master)](https://github.com/SandwichStation/ss14-forms-txt/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/ss14-forms-txt)](https://github.com/SandwichStation/ss14-forms-txt/)
-[![License](https://img.shields.io/github/license/SandwichStation/ss14-forms-txt.svg)](https://github.com/SandwichStation/ss14-forms-txt/blob/master/LICENSE)
+<!--[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SandwichStation/ss14-forms-txt)](https://github.com/SandwichStation/ss14-forms-txt/)-->
+<!--[![License](https://img.shields.io/github/license/SandwichStation/ss14-forms-txt.svg)](https://github.com/SandwichStation/ss14-forms-txt/blob/master/LICENSE)-->
 <!--[![Downloads](https://img.shields.io/github/downloads/SandwichStation/ss14-forms-txt/total.svg)](https://github.com/SandwichStation/ss14-forms-txt/releases/latest)-->
