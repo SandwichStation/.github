@@ -6,7 +6,7 @@
 # Welcome to the SandwichStation Github!
 Our socials:  
 <a target="_blank" href="https://discord.gg/Z6JvtKw6tp"><img src="https://dcbadge.limes.pink/api/server/Z6JvtKw6tp?refresh=true" alt="SandwichStation Discord" /></a>
-## You can find the following (unarchived) repos here:
+## You can find the following repos here:
 ### [SandwichStation Server/Client](https://github.com/SandwichStation/SandwichStation-HL)
 [![Stars](https://img.shields.io/github/stars/SandwichStation/SandwichStation-HL.svg)](https://github.com/SandwichStation/SandwichStation-HL/stargazers)
 [![GitHub repo size](https://img.shields.io/github/repo-size/SandwichStation/SandwichStation-HL)](https://github.com/SandwichStation/SandwichStation-HL)
